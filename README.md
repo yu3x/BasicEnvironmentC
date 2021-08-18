@@ -1,2 +1,2 @@
 # BasicEnvironmentC
-Basic C Project for Debug
+Basic C Project for Debugging in vscode
